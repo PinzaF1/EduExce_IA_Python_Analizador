@@ -8,6 +8,6 @@ def display_welcome_message():
     print("\n¡Listos para transformar el futuro del aprendizaje!")
     print("*" * 50)
 
-# Ejecutar el mensaje de bienvenida 
+# Ejecutar el mensaje de bienvenida a
 if __name__ == "__main__":
     display_welcome_message()
